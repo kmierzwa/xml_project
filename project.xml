@@ -1,13 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<html xsl:version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<?xml-stylesheet href="xslt.xslt" type="text/xsl" ?>
 <Citizens>
+
 	<Citizen>
 		<name>Jozef Orylo </name>
-		<phone>(+421) 904 105 847 </phone>
-		<email>jozo@mojmail.sk</email>
+		<phone>(+48) 508 124 445 </phone>
+		<email>test@wp.pl</email>
+		<nationality>Poland</nationality>
 	</Citizen>
+
 	<Citizen>
-		<name>Jozef Orylo </name>
-		<phone>(+421) 904 105 847 </phone>
-		<email>jozo@mojmail.sk</email>
+		<name>Andrzej Kowalski </name>
+		<phone>(+48) 433 845 527 </phone>
+		<email>jolo@onet.pl</email>
+		<nationality>Poland</nationality>
 	</Citizen>
+
+	<Citizen>
+		<name>Bob Wilon </name>
+		<phone>(+44) 100 784 8912 </phone>
+		<email>bob@gmail.com</email>
+		<nationality>England</nationality>
+	</Citizen>
+
+	<Citizen>
+		<name>Andrzej Wajda </name>
+		<phone>(+48) 542 654 555 </phone>
+		<email>andrzej@gmail.com</email>
+		<nationality>Poland</nationality>
+	</Citizen>
+
+	<Citizen>
+		<name>Ahmed Ahmed </name>
+		<phone>(+48) 508 114 225 </phone>
+		<email>tesat@wp.pl</email>
+		<nationality>Turkey</nationality>
+	</Citizen>
+
+	<Citizen>
+		<name>Piotr Kowalski </name>
+		<phone>(+48) 444 125 527 </phone>
+		<email>piter@onet.pl</email>
+		<nationality>Poland</nationality>
+	</Citizen>
+
+	<Citizen>
+		<name>Bob Holmes </name>
+		<phone>(+44) 100 744 8922 </phone>
+		<email>bobh@gmail.com</email>
+		<nationality>England</nationality>
+	</Citizen>
+
+	<Citizen>
+		<name>Ola Zyga </name>
+		<phone>(+48) 555 444 777 </phone>
+		<email>jola@ww.sk</email>
+		<nationality>Poland</nationality>
+	</Citizen>
+
+	<Citizen>
+		<name>Janusz Moro </name>
+		<phone>(+48) 518 122 999 </phone>
+		<email>moro@wp.pl</email>
+		<nationality>Poland</nationality>
+	</Citizen>
+
+	<Citizen>
+		<name>Andrzej Ząb </name>
+		<phone>(+48) 223 845 527 </phone>
+		<email>zab@onet.pl</email>
+		<nationality>Poland</nationality>
+	</Citizen>
+
+	<Citizen>
+		<name>Silvio Berno </name>
+		<phone>(+39) 100 784 82 </phone>
+		<email>silvio@gmail.com</email>
+		<nationality>Italy</nationality>
+	</Citizen>
+
+	<Citizen>
+		<name>Jozef Kok </name>
+		<phone>(+420) 984 115 777 </phone>
+		<email>jozef@ww.cz</email>
+		<nationality>Czech Republic</nationality>
+	</Citizen>
+	
+
 </Citizens>
