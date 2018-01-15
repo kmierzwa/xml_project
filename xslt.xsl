@@ -5,7 +5,6 @@
   <html>
     <head>
          <link rel="stylesheet" href="style.css" type="text/css"/>
-         <script type="text/javascript" src="script.js"></script> 
     </head>
     <body>
     <h2>citizens:</h2>

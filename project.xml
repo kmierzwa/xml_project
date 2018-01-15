@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet href="xslt.xsl" type="text/xsl" ?>
 <Citizens>
-
 	<Citizen>
 		<name>Jozef Orylo </name>
 		<phone>(+48) 508 124 445 </phone>
