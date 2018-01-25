@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-stylesheet href="xslt.xsl" type="text/xsl" ?>
+<?xml-stylesheet href="index.xsl" type="text/xsl" ?>
+
 <Citizens>
 	<Citizen>
 		<name>Józef Mydełko </name>
 		<phone>(+48) 508 124 445 </phone>
 		<email>test@wp.pl</email>
 		<nationality>Poland</nationality>
+		<photo src="http://www.programva.com/_files/_countries/128/pl.png"/>
 	</Citizen>
 
 	<Citizen>
@@ -13,6 +15,7 @@
 		<phone>(+48) 433 845 527 </phone>
 		<email>jolo@onet.pl</email>
 		<nationality>Poland</nationality>
+		<photo src="http://www.programva.com/_files/_countries/128/pl.png"/>
 	</Citizen>
 
 	<Citizen>
@@ -20,6 +23,7 @@
 		<phone>(+44) 100 784 8912 </phone>
 		<email>bob@gmail.com</email>
 		<nationality>England</nationality>
+		<photo src="https://a.allegroimg.com/s128/016cd9/5a682c3b448cb62f851e0ea8ee1a"/>
 	</Citizen>
 
 	<Citizen>
@@ -27,6 +31,7 @@
 		<phone>(+48) 542 654 555 </phone>
 		<email>andrzej@gmail.com</email>
 		<nationality>Poland</nationality>
+		<photo src="http://www.programva.com/_files/_countries/128/pl.png"/>
 	</Citizen>
 
 	<Citizen>
@@ -34,6 +39,7 @@
 		<phone>(+48) 508 114 225 </phone>
 		<email>tesat@wp.pl</email>
 		<nationality>Turkey</nationality>
+		<photo src="http://www.zzp.geogr.uni.wroc.pl/www_janc/grafika/flaga_turcja_ciemny.png"/>
 	</Citizen>
 
 	<Citizen>
@@ -41,6 +47,7 @@
 		<phone>(+48) 444 125 527 </phone>
 		<email>piter@onet.pl</email>
 		<nationality>Poland</nationality>
+		<photo src="http://www.programva.com/_files/_countries/128/pl.png"/>
 	</Citizen>
 
 	<Citizen>
@@ -48,6 +55,7 @@
 		<phone>(+44) 100 744 8922 </phone>
 		<email>bobh@gmail.com</email>
 		<nationality>England</nationality>
+		<photo src="https://a.allegroimg.com/s128/016cd9/5a682c3b448cb62f851e0ea8ee1a"/>
 	</Citizen>
 
 	<Citizen>
@@ -55,6 +63,7 @@
 		<phone>(+48) 555 444 777 </phone>
 		<email>jola@ww.sk</email>
 		<nationality>Poland</nationality>
+		<photo src="http://www.programva.com/_files/_countries/128/pl.png"/>
 	</Citizen>
 
 	<Citizen>
@@ -62,6 +71,7 @@
 		<phone>(+48) 518 122 999 </phone>
 		<email>moro@wp.pl</email>
 		<nationality>Poland</nationality>
+		<photo src="http://www.programva.com/_files/_countries/128/pl.png"/>
 	</Citizen>
 
 	<Citizen>
@@ -69,6 +79,7 @@
 		<phone>(+48) 223 845 527 </phone>
 		<email>zab@onet.pl</email>
 		<nationality>Poland</nationality>
+		<photo src="http://www.programva.com/_files/_countries/128/pl.png"/>
 	</Citizen>
 
 	<Citizen>
@@ -76,6 +87,7 @@
 		<phone>(+39) 100 784 82 </phone>
 		<email>silvio@gmail.com</email>
 		<nationality>Italy</nationality>
+		<photo src="https://d2pptc4exyus09.cloudfront.net/public/images/layout/it.png"/>
 	</Citizen>
 
 	<Citizen>
@@ -83,5 +95,7 @@
 		<phone>(+420) 984 115 777 </phone>
 		<email>jozef@ww.cz</email>
 		<nationality>Czech Republic</nationality>
+		<photo src="http://www.flagipanstw.eu/images/3/flaga-czech.png"/>
+
 	</Citizen>
 </Citizens>
